@@ -1,0 +1,8 @@
+.line{
+    border-bottom: 2px solid lightgray;
+}
+
+.btn-chat{
+    color: blue;
+    background: white;
+}
